@@ -1,3 +1,5 @@
+#Chrome Browser Dino game automate by python pyautogui
+
 import pyautogui
 from PIL import Image, ImageGrab
 import time
